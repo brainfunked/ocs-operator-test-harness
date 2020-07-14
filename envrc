@@ -1,4 +1,4 @@
-export OSD_PROJECT_DIR=~/projects/osd
+export OSD_PROJECT_DIR="$PWD"
 export OCM_TOKEN=$(<$OSD_PROJECT_DIR/token)
 export OSD_ENV=stage
 export CLUSTER_NAME=$(<$OSD_PROJECT_DIR/cluster_name)

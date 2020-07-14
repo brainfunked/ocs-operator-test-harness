@@ -1,0 +1,5 @@
+dryRun: false
+tests:
+  testsToRun:
+  - '[Suite: addons]'
+    #- '[Suite: e2e]'
